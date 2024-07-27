@@ -7,4 +7,3 @@ Displays the current temperature, weather description, and other related weather
 Supports searching for weather information for any location in the world.
 Displays a user-friendly interface that is easy to use and understand.
 
-Live Url  - https://weather-spot-api.netlify.app/
